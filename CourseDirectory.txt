@@ -1,0 +1,524 @@
+///////////////////////////////////SCHOOL OF MANAGEMENT/////////////////////////////////////////////////// 
+
+
+COURSE CODE:COSC505[Graduate Master's]
+
+COURSE NAME:Computer
+Applications for
+Economics
+
+COURSE OUTLINE:This course intends to teach the students use of computer applications in economics. 
+It will introduce data analysis which will be useful in economics. 
+Students will learn data collection, data cleaning, data modeling, data analysis and 
+data visualization using the tools MS Excel and R language. 
+They will learn database management system to store and process the data using MS Access.
+
+CREDITS:3
+
+FACULTY: Not added
+
+TERM:Summer
+
+
+
+COURSE CODE:EPP100[Undergraduate]
+[Bi-Semester]
+
+COURSE NAME:Microeconomics
+
+COURSE OUTLINE:Not added 
+
+CREDITS:3
+
+FACULTY:Aditi
+Upadhyay 
+
+TERM:Summer
+
+
+
+COURSE CODE:EPP330[Undergraduate]
+
+COURSE NAME:International
+Economics
+
+COURSE OUTLINE:In the contemporary age of increasing integration among the economies of the world, 
+questions such as why and how countries trade with one another, how international capital flows are decided,
+how do indigenous firms compete against the mighty multinational corporations, 
+the relevance of interest and inflation rate differentials, 
+how the international value of currency gets decided, 
+and many more, call for the attention of students of Economics. 
+Answers to these questions are not simple, 
+and there scarcely exists a unique solution for any one of them.
+Nevertheless, principles of Economics, both Micro and Macro, 
+often provide an interesting and effective framework on which 
+the logic of international economic issues can be constructed.
+International Economics provides an insight into some of these principles 
+and equips undergraduate students in the field of management 
+with the understanding of the functioning of the economies in a globalized world.
+The course covers essential theories of International Economics as well as empirical analysis of 
+some of the most important global events that have altered the way in which economies
+have functioned over the last few decades.  
+
+CREDITS:3
+
+FACULTY:Atman Shah
+
+TERM:Summer
+
+
+
+COURSE CODE:EPP341[Undergraduate]
+
+COURSE NAME:Development
+Economics
+
+COURSE OUTLINE:This course aims at developing an in depth understanding of the development 
+and growth discourses that have emerged in the latter part of the 20th century. 
+Bringing together various components and perspectives to development the course weaves in the contemporary 
+policy discourse.The course exposes the students to the discourses in Development Economics.
+
+CREDITS:3
+
+FACULTY:Not added  
+
+TERM:Summer
+
+
+
+COURSE CODE:FAC104[Undergraduate]
+
+COURSE NAME:Tally ERP 9.0
+
+COURSE OUTLINE:Tally ERP 9.0 is an elementary level hands on practical training course which 
+equips the students with necessary skills to operate a computerized accounting package.
+This course covers important features of financial accounting such as voucher entries
+of various accounting transactions to finalization of accounts, preparing Profit & 
+Loss Account and Balance-sheet as per Schedule � VI, introduce to them basics of inventory management,
+Budgets and some of the widely used basic Taxation features such as TDS and recently introduced 
+Goods and Service Tax.                                                                                                                                                                                                                 View course outline  Print course outline
+
+CREDITS:2
+
+FACULTY:Rena Gohel
+ 
+TERM:Summer
+
+
+COURSE CODE:FAC132[Undergraduate]
+
+COURSE NAME:Financial Management - II
+
+COURSE OUTLINE:Financial decision making can be divided into three broad categories:
+ (i) Investment Decisions, (ii) Financing Decisions and (iii) Dividend decision. 
+This course is offered with a view to enhance the preliminary conceptual 
+understanding of some of the fundamental tools and techniques used in financial decision making. 
+The subject material is concerned with the theories and practice of investment and financing decisions of a firm. 
+It provides a basis for subsequent integrative management subjects.                                                                                           View course outline  Print course outline
+
+CREDITS:3
+
+FACULTY:Mona Vora
+
+TERM:Summer
+
+
+COURSE CODE:FAC214[Undergraduate]
+
+COURSE NAME:Management Accounting
+
+COURSE OUTLINE:This is an advanced level course which equips the students with necessary skills 
+in Management Accounting. This course covers important techniques of cost accounting like Standard Costing, 
+Cost-volume-profit Analysis, Budgeting and Activity Based Costing. 
+It includes the rationale for variances due to difference in standard and actual output.
+It encompasses decision-making based on the above mentioned techniques. 
+It includes important aspects like cash management through preparation of cash budgets. 
+It covers implications of applying Activity Based Costing against Traditional Costing method. 
+With these skills, the students will be able to understand and provide valuable, relevant 
+and important cost and management information to the management, which helps them in the planning,
+controlling and decision-making.                                                               
+
+CREDITS:3
+
+FACULTY:Mona Vora
+
+TERM:Summer
+
+
+COURSE CODE:HRTG505[Graduate Master's]
+
+COURSE NAME:Practicum
+
+COURSE OUTLINE:Not added
+
+CREDITS:9
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:INT170[Undergraduate]
+
+COURSE NAME:NGO Internship
+
+COURSE OUTLINE:Not added
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:INT171[Undergraduate]
+
+COURSE NAME:Discovering India Exposure Trip
+
+COURSE OUTLINE:Not added
+
+CREDITS:2
+
+FACULTY:Chirag Trivedi 
+
+TERM:Summer
+
+
+COURSE CODE:INT270[Undergraduate]
+
+COURSE NAME:Corporate Internship I
+
+COURSE OUTLINE:Not added
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:INT271[Undergraduate]
+
+COURSE NAME:Corporate Internship II
+
+COURSE OUTLINE:Not added
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:INT272[Undergraduate]
+
+COURSE NAME:Internship in Accounting and Compliance
+
+COURSE OUTLINE:Not added
+
+CREDITS:5
+
+FACULTY:Not added  
+
+TERM:Summer
+
+
+COURSE CODE:INT570[Graduate Master's]
+
+COURSE NAME:Summer Internship
+
+COURSE OUTLINE:Not added
+
+CREDITS:3
+
+FACULTY:Sudhir Pandey
+
+TERM:Summer
+
+
+COURSE CODE:INT571[Graduate Master's]
+
+COURSE NAME:International Immersion
+
+CREDITS:2
+
+FACULTY:Amrita Bihani 
+
+TERM:Summer
+
+
+COURSE CODE:INT571[Graduate Master's]
+
+COURSE NAME:International Immersion
+
+COURSE OUTLINE:Not added
+
+CREDITS:2
+
+FACULTY:Amrita Bihani
+
+TERM:Summer
+
+
+COURSE CODE:MGT236[Undergraduate]
+
+COURSE NAME:Corporate Social Responsibility
+
+COURSE OUTLINE:Its time we realize the importance of co-existence. 
+We have been talking about economics, technology, culture, climate 
+and other topics but its important that we discuss how they overlap, 
+influence and impact each other. The world we exist in is going through a contradictory phase,
+ there are developments in the fields of science and technology to make lives better and connected, 
+at the same time there is a rising intolerance! CSR, combines these factors and makes businesses more 
+conscious, inclusive and social !!                                                                                   View course outline  Print course outline
+
+CREDITS:3
+
+FACULTY:Nimit Thaker
+
+TERM:Summer
+
+
+COURSE CODE:MGT501[Graduate Master's]
+
+COURSE NAME:Management Information Systems
+
+COURSE OUTLINE:The course aims to explore vital role of Information System in Information society.
+It introduces types of Information systems and role of Management Information System in various 
+domains including functional and non-functional departments. 
+This includes Manufacturing, Sales and Marketing, Materials, Research and Development, 
+Finance and Accounting, Transportation and logistics, Share, Human Resources etc. 
+The main aspect is to determine utility of Information system to support Managerial function 
+in order to achieve the objectives of organization.                                                                 View course outline  Print course outline
+
+CREDITS:2
+
+FACULTY:Kuntalkumar Patel 
+
+TERM:Summer
+
+
+COURSE CODE:PRJ679[Graduate Master's]
+
+COURSE NAME:Route Camp
+
+COURSE OUTLINE:Not added
+
+CREDITS:12
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:UWA202[Undergraduate]
+
+COURSE NAME:Cultural to Critical: Reading South Asian Literature
+
+COURSE OUTLINE:This course introduces students to the literature of the South Asia. 
+It surveys a selection of fiction written in English across regions, nationalities, 
+and crossovers within and beyond South Asia. The course will examine how key cultural 
+concepts have reappeared across South Asian literary traditions over time and 
+how they have been reimagined within the context of specific historical junctures and 
+socio-linguistic networks. The course shall also focus on themes such as the contesting 
+topographies, conflict and peace, ecology and discontent, power and politics, colonialism and 
+nationalism, problems of translation, and the intersections between ideas of real and 
+imagined geographies that constitute the dynamics of the South Asian literary scape.
+
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+
+///////////////////////////SCHOOL OF COMPUTER STUDIES/////////////////////////////////////////////////////////
+
+
+COURSE CODE:PROJ403[Undergraduate]
+
+COURSE NAME:Software Project Development
+
+COURSE OUTLINE:This course is aimed to familiarize students with analyzing, designing and
+developing a real-life application, preferably commercial application in an organization. 
+Students are required to undertake and develop the software project for solving societal and 
+industrial problems under the supervision of a qualified computer professional and an internal faculty.
+
+CREDITS:5
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+
+/////////////////////////SCHOOL OF ENGINEERING AND APPLIED SCIENCES////////////////////////////////////////////////
+
+
+
+COURSE CODE:BTP402[Undergraduate]
+
+COURSE NAME:Project Part - 1
+
+COURSE OUTLINE:The Probability and Random Process (PRP) is an undergraduate math course aimed 
+at teaching the fundamentals of probability and random processes to model the uncertainty in 
+humans daily life and applied the knowledge gain into the field of engineering like Finance, Biology,
+ Signal Processing and Communications, Biomedical, Data Analytics, Computer Science etc.     
+This course is a core subject of ICT undergraduate programs at School of Engineering and Applied Science. 
+The course is designed to develop the student�s various soft skills like problem-solving, teamwork, 
+critical thinking, and Monte Carlo simulation framework to model an uncertainty.
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:CSC210[Undergraduate]
+
+COURSE NAME:Data Structures and Algorithms
+
+COURSE OUTLINE:The course covers basic data structures and techniques for design and analysis of
+data structures with a rich set of applications in computer science, operations research 
+and distributed systems. The first part of this course will provide a thorough 
+introduction to the analysis of the complexity of algorithms. 
+The second part will show how to use these analysis on sorting algorithms. 
+In the third part we will see how to use the basic  data structures like Lists, 
+Stacks, Queues, Binary Search Trees, Heaps and Height Balanced Search Trees in solving storing data, 
+sorting and searching problems. We will also introduce tools and techniques for computational 
+analysis of these basic data structures. If time allows we will also look into more advanced 
+problems like dynamic programming, B-Trees and Elementary Graph Algorithms.         
+
+CREDITS:3
+
+FACULTY:Barbara Morawska 
+
+TERM:Summer
+
+
+COURSE CODE:CSC516[Graduate Master's]
+
+COURSE NAME:Probabilistic Graphical Models
+
+COURSE OUTLINE:Probability theory and Graph modelling (PGM) play a key role in the design of a system 
+across many disciplines like Artificial Intelligence, statistics, Life Sciences -computational biology,
+ Computer Systems, Intelligent Transports, Robotics, Economics etc. Such field treated as �the search 
+for a coherent global conclusion from local information.The PGM framework provides a unified view for this wide 
+range of problems, enabling efficient inference, decision-making and learning in problems with a very large number 
+of attributes and huge datasets. PGMs bring together graph theory and probability theory and provide a flexible
+framework for modelling large collections of random variables with complex interactions.  
+The course will focus mainly on three aspects: A. The core representation, 
+including Bayesian and Markov networks, and dynamic Bayesian networks; B. Probabilistic inference algorithms, 
+both exact and approximate; and C. Learning methods for both the parameters and the structure of graphical models. 
+Students entering the class should have a pre-existing working knowledge of probability, statistics, and algorithms. 
+This class will set the foundation for machine learning, predictive analytics, reinforcement learning, natural language processing etc. 
+Students can apply PGM in any field of core computer science and engineering to handle multidimensional uncertain problems.
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:ENR402[Undergraduate]
+
+COURSE NAME:Mobile Robots, Lets Build One!
+
+COURSE OUTLINE:Mobile Robots, Lets Build One! is a hands-on (Enable) course. 
+These robots are different from other classes of robots in many ways. 
+This is a course to introduce the students to different aspects of control for mobile robots.  
+How to control them and make them move around safely and effectively. 
+They start from the basis and finally will end up with a physical moving robot. 
+In this path they will be familiarized with Kinematic and Dynamic of mobile robots, different aspects of robot perception, 
+after a review of control theory and systems they will be introduced to hybrid automata and its components. 
+They go through the theory behind localization and navigation which will lead them to motion planning, 
+after which the practical part of the course will begin.  The robot building will bring up such topics as hardware 
+and software used for making a mobile robot and running it.
+
+CREDITS:3
+
+FACULTY:Not added
+
+TERM:Summer 
+
+
+COURSE CODE:ENR403[Undergraduate]
+
+COURSE NAME:Machine Vision, Learning and Applications
+
+COURSE OUTLINE:This course covers three major topics: 1) Machine Vision, 2) Machine Learning and 3) related applications.
+A brief introduction to the first two topics will be provided to the students, 
+while third topic could serve as a connecting bridge between theoretical and practical aspects. 
+Nowadays, Machine learning is a buzz word that has the potential of changing lifestyle of many humans. 
+The course is multidisciplinary and offered university wide so that a student from any engineering branch can enroll. 
+For more details please visit the session plan.
+
+CREDITS:3
+
+FACULTY:Not added 
+
+TERM:Summer
+
+
+COURSE CODE:MAT100[Undergraduate] [Bi-Semester]
+
+COURSE NAME:Calculus and Differential Equations
+
+COURSE OUTLINE:The course builds on the knowledge of the students in Calculus obtained in School and develops the subject, 
+with special emphasis on solving real life problems. 
+The course also introduces the students to Mathematical modelling using differential equations.                 
+
+
+CREDITS:4
+
+FACULTY:Narayan Padmanabhan
+
+TERM:Summer
+
+
+COURSE CODE:MAT103[Undergraduate]
+
+COURSE NAME:Foundations of Calculus and Differential Equations
+
+CREDITS:4
+
+FACULTY:Narayan Padmanabhan 
+
+TERM:Summer
+
+
+COURSE CODE:MAT200[Undergraduate]
+
+COURSE NAME:Linear Algebra
+
+COURSE OUTLINE:The course includes the study of vectors in the space, systems of linear equations, matrices, determinants, 
+vectors, vector spaces, linear transformations, inner products, eigenvalues and eigenvectors, singular values, 
+principle components, quadratic forms.                                                       
+
+CREDITS:4
+
+FACULTY:George Varughese
+        Mitaxi Mehta 
+
+TERM:Summer
+
+
+COURSE CODE:MEC210[Undergraduate] [Enable Course]
+
+COURSE NAME:Strength of Materials
+
+COURSE OUTLINE:This curse forms the foundation of the vertical of Materials and Manufacturing within the discipline of Mechanical engineering. 
+It belongs to the branch of statics. It is a theory course where analysis of stress and strain developed in physical structures due 
+to external load is carried out. Topics include: shear force and bending moment; axial, shear, bearing and bending 
+stresses; deflection of beams; and buckling of columns, torsion of shafts.                                                                                            View course outline  Print course outline
+
+CREDITS:3
+
+FACULTY:Keyur Joshi 
+
+TERM:Summer
+
